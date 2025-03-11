@@ -14,7 +14,7 @@
 
 -   <b>📊 Certifications: </b>
   -   - <b>Six Sigma Lean Professional(SSLP) ID# WAT091714
-  -   - <b>Six Sigma Lean Professional(SSLP)
+  -   - <b>Change Management Specialist (CMS) ID# WAT120214
 
 
  💡 <b>What I Do: </b>
