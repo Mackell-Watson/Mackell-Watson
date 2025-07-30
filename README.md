@@ -46,11 +46,18 @@
 
   
 
-- Data Visualization - SQL, Power Query, Excel
-- Data Analysis & ETL - SQL, Power Query, Excel
--   Process Automation - Power Automate, SharePoint, Smartsheet
-- ERP & CRM - SAP, Microsoft Dynamics (Knowlege), Salesforce, Oracle, etc,.
-- Project Management - Agile, Kanban, Jira
+• Project Management & Agile Methodologies
+• SharePoint – Site & Document Library Administration, Workflow Automation
+• Business Process Improvement & Optimization
+• Jira – Task Management, Sprint Planning, and Agile Backlog Prioritization
+• Power BI – Interactive Dashboards, Data Visualization, DAX, and Report Automation
+• SQL – Advanced Querying (Data Retrieval, Joins, Unions, Subqueries, Common Table Expressions (CTEs), Window Functions)
+• Root Cause Analysis (RCA) & Apparent Cause Analysis (ACA) – Problem Identification and Resolution
+• Microsoft Visio – Process Mapping, Flowcharting, and Documentation
+• Data Modeling – Star & Snowflake Schema Design, Fact and Dimension Tables
+• Salesforce CRM – Account Management and Data Integration
+• Python Libaries (pandas, matplotlib, and plotly ) 
+• Microsoft Excel – Advanced Formulas, Pivot Tables, VLOOKUP,XLOOKUP, Dashboard Creation, and Data Analysis 
 
 <h2> 🤳 Let's connect and collaborate on data-driven projects!:</h2>
 
