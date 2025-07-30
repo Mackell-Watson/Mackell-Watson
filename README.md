@@ -32,7 +32,7 @@
     -  <b>✅ Retail & Supply Chain    – Sales performance analysis, demand forecasting, and logistics optimization.
     -  <b>✅ Manufacturing –  Process Automation & Resource Management with Oracle HFM & Essbase
     -  <b>✅ Hospitality & Management  - Accounting and Finance to manage revenue, expenses, and financial reporting, ensuring profitability, compliance, and efficient operations.
-    - <b>✅ Hospitality & Management  - Accounting and Finance to manage revenue, expenses, and financial reporting, ensuring profitability, compliance, and efficient operations. 
+    
 
  <b>🚀 <b>Why Data</b>
   - I believe that data tells a story, and my goal is to help organizations interpret that story in a way that leads to strategic decision-making and business success. Whether it’s improving workforce efficiency, optimizing resource allocation, or enhancing customer insights, I thrive on turning raw data into valuable business intelligence.
